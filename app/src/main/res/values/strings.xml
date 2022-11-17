@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="dog_name1">Australian Shepherd</string>
+    <string name="dog_name2">Chihuahua</string>
+    <string name="dog_name3">German Shepherd</string>
+    <string name="dog_name4">Golden Retriever</string>
+    <string name="dog_name5">Labrador Retriever</string>
+    <string name="dog_name6">Newfoundland</string>
+    <string name="dog_name7">Poodle</string>
+    <string name="dog_name8">Rottweiler</string>
+    <string name="dog_name9">Shih Tzu</string>
+
+
+    move or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
